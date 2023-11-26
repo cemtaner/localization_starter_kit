@@ -13,8 +13,9 @@ This starter kit will directly pull content from the database and list the pages
 
 ## How to Install?
 
-git clone https://github.com/cemtaner/localization_starter_kit.git
-create database and connection
-php artisan migrate:fresh --seed
-php artisan serve
-http://127.0.0.1:8000/en/about-us
+git clone https://github.com/cemtaner/localization_starter_kit.git<br>
+create database and connection<br>
+php artisan migrate:fresh --seed<br>
+php artisan serve<br>
+http://127.0.0.1:8000/en/about-us<br>
+https://laravel.cemtaner.com
